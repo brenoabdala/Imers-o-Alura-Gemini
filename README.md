@@ -40,8 +40,17 @@ Dentro do Google IA Studio  existem dois tipos de prompts:
 <p>Controle de respostas do tipo de palavras usadas em respostas de maneira resumida. Exemplo: Mas/Porém/Contudo e afins e quero contar apenas com 2.</p>
 
 #### Advanced Settings | TOP B
-<p>Define a probabilidade agregada, ou seja, 20% então o modelo irá escolher a soma de palavras que chegue nesse 20% setados(1 palavra 15%/2 palavra 4%/3 palabra 1 %).</p>
+<p>Define a probabilidade agregada, ou seja, 20% então o modelo irá escolher a soma de palavras que chegue nesse 20% setados(1 palavra 15%/2 palavra 4%/3 palavra 1 %).</p>
 
 #### Trabalhando com imagem, video, audio ou arquivo
 <p> Para trabalhar com imagem, video, audio ou arquivo basta selecionar a opção deseja conforme imagem a seguir e fazer a pergunta para a IA.</p>
+
 ![image](https://github.com/user-attachments/assets/3e7f0154-94ab-4e83-922c-3e6173e7c318)
+
+#### Criando a API Key
+- Clique em  Get API Key;
+- Clique em Create API Key;
+
+  ![image](https://github.com/user-attachments/assets/7ead1a9c-f92f-42a1-a44a-f527b4881237)
+
+

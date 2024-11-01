@@ -53,4 +53,8 @@ Dentro do Google IA Studio  existem dois tipos de prompts:
 
   ![image](https://github.com/user-attachments/assets/7ead1a9c-f92f-42a1-a44a-f527b4881237)
 
+### Módulo 4 - Criando seu próprio seu Chatbot com o Gemini API
 
+<p> Documentação: https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br&lang=python </p>
+
+<p>Código anexado no resposittório</p>

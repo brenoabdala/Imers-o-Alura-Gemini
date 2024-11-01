@@ -28,22 +28,22 @@ Dentro do Google IA Studio  existem dois tipos de prompts:
 
 #### Temperautra: 
 ![image](https://github.com/user-attachments/assets/eae18576-80bb-4ecb-8dc8-834bea5c4aa2)
-<p> Forma com que a resposta será retornada, no prompt de dialogo com a IA. </p> 
+ - <p> Forma com que a resposta será retornada, no prompt de dialogo com a IA. </p> 
 
 
 #### Safety Setings
 ![image](https://github.com/user-attachments/assets/f3af8701-242c-4d57-aa78-ca3b54a2abff)
-<p>Controle de respostas, contra ódio e afins.</p>
+ - <p>Controle de respostas, contra ódio e afins.</p>
 
 #### Advanced Settings | TOP K
 ![image](https://github.com/user-attachments/assets/ae72d4fd-61dd-40b0-8066-f759cf31d732)
-<p>Controle de respostas do tipo de palavras usadas em respostas de maneira resumida. Exemplo: Mas/Porém/Contudo e afins e quero contar apenas com 2.</p>
+- <p>Controle de respostas do tipo de palavras usadas em respostas de maneira resumida. Exemplo: Mas/Porém/Contudo e afins e quero contar apenas com 2.</p>
 
 #### Advanced Settings | TOP B
-<p>Define a probabilidade agregada, ou seja, 20% então o modelo irá escolher a soma de palavras que chegue nesse 20% setados(1 palavra 15%/2 palavra 4%/3 palavra 1 %).</p>
+- <p>Define a probabilidade agregada, ou seja, 20% então o modelo irá escolher a soma de palavras que chegue nesse 20% setados(1 palavra 15%/2 palavra 4%/3 palavra 1 %).</p>
 
 #### Trabalhando com imagem, video, audio ou arquivo
-<p> Para trabalhar com imagem, video, audio ou arquivo basta selecionar a opção deseja conforme imagem a seguir e fazer a pergunta para a IA.</p>
+- <p> Para trabalhar com imagem, video, audio ou arquivo basta selecionar a opção deseja conforme imagem a seguir e fazer a pergunta para a IA.</p>
 
 ![image](https://github.com/user-attachments/assets/3e7f0154-94ab-4e83-922c-3e6173e7c318)
 
@@ -57,4 +57,10 @@ Dentro do Google IA Studio  existem dois tipos de prompts:
 
 <p> Documentação: https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br&lang=python </p>
 
-<p>Código anexado no resposittório</p>
+ - <p>Código anexado no respositório.</p>
+
+<strong>Bibliotecas de Instalação </strong>
+- pip install -q -U google-generativeai
+
+### Módulo 5 - Criando um sistema para busca em documentos usando embeddings e a Gemini API
+- EM ANDAMENTO

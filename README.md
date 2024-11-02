@@ -63,4 +63,13 @@ Dentro do Google IA Studio  existem dois tipos de prompts:
 - pip install -q -U google-generativeai
 
 ### Módulo 5 - Criando um sistema para busca em documentos usando embeddings e a Gemini API
-- EM ANDAMENTO
+-  <strong><p>Objetivo da aula:</strong> Criação de LLM (Large Language Model) para acessar documentos. Na aula será abordado o tema de Embedding.</p>
+- <strong> Embeddings:</strong> embeddings são representações matemáticas de dados que facilitam o processamento e a análise por algoritmos de machine learning, abrindo portas para diversas aplicações em áreas como linguagem natural, visão computacional, áudio e vídeo.
+
+#### Bibliotecas usadas:
+- numpy
+- pandas
+- google.generativeai
+
+#### Projeto
+- Projeto anexado no repositório
